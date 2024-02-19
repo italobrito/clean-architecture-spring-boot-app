@@ -1,0 +1,5 @@
+package br.com.cleanarch.fastfoodapp.data.entities;
+
+public class EnderecoEntity {
+
+}

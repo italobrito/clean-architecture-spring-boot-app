@@ -1,0 +1,9 @@
+package br.com.cleanarch.fastfoodapp.core.domain.enums;
+
+
+public enum TipoPagamentoEnum {
+	CARTAO_CREDITO,
+	CARTAO_DEBITO,
+	PIX,
+	DINHEIRO,
+}
